@@ -1,4 +1,4 @@
-### Flight-fare-analysis
+### Flight Fare Analysis
 
 
 ### Introduction
