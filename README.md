@@ -1,5 +1,6 @@
 ### Flight-fare-analysis
 
+
 ### Introduction
 
 This project analyzes how flight prices fluctuate over time and provides actionable insights for travelers on when to book flights for the best deals. By leveraging historical flight data, it predicts ticket prices based on commonly known features such as:
@@ -13,6 +14,7 @@ Number of stops
 Booking lead time (days left until departure)
 
 The project combines Exploratory Data Analysis (EDA), statistical insights, and predictive modeling to help users make informed decisions and save money.
+
 
 ### Dataset
 
